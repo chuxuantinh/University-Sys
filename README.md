@@ -1,6 +1,4 @@
-# Online University
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ybt84fefglkqn81v?svg=true)](https://ci.appveyor.com/project/astambi/university-system) [![Build Status](https://travis-ci.org/astambi/University-System.svg?branch=master)](https://travis-ci.org/astambi/University-System)
 
 ## Project Description
 
@@ -156,15 +154,6 @@ The public part of the University is visible by any user with or without authent
 
 ## Database: MS SQL Server
 
-## Cloud Storage: Cloudinary https://github.com/cloudinary/CloudinaryDotNet
-
-## Email Sender: SendGrid https://github.com/sendgrid/sendgrid-csharp
-
-## Dependencies:
-
-- AutoMapper https://github.com/AutoMapper/AutoMapper
-- SelectPdf Html To Pdf Converter for .NET - Free Community Edition https://github.com/selectpdf/selectpdf-free-html-to-pdf-converter
-- HtmlSanitizer https://github.com/mganss/HtmlSanitizer
 
 ## Authentication
 
